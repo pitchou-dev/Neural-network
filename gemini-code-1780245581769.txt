@@ -1,0 +1,27 @@
+[Ton Prénom] [Ton Nom]
+[Ton Adresse à Alger]
+[Ton Numéro de téléphone]
+[Ton Adresse Email]
+Nationalité : Française
+
+À l'attention des membres de la commission pédagogique
+Licence d'Informatique (NCU)
+CY Cergy Paris Université
+
+Objet : Candidature en Licence d'Informatique - Projet d'études en Intelligence Artificielle et Recherche
+
+Madame, Monsieur,
+
+Actuellement en deuxième année de Licence d’Informatique à l’Université des Sciences et de la Technologie Houari Boumediene (USTHB) à Alger, je vous sollicite pour intégrer votre cursus en Informatique pour l'année universitaire 2026-2027. Mon objectif est de réintégrer le système universitaire français au sein d'un pôle d'excellence afin d'y bâtir un parcours orienté vers la recherche en Intelligence Artificielle.
+
+Passionné par les architectures de modèles, le Deep Learning et le Reinforcement Learning, j'ai rapidement orienté mes efforts académiques et personnels vers les disciplines clés de l'IA. Si mes résultats en mathématiques théoriques restent perfectibles, j'ai développé une logique formelle très solide qui s'est traduite par une moyenne de 18/20 en Algorithmique et Structures de Données à l'USTHB. En parallèle, j'affine mes compétences pratiques en Data Science à travers des projets personnels et des compétitions Kaggle, et je m'investis activement dans la culture tech de mon université en tant que membre du Micro Club, où j'ai notamment géré l'organisation technique de compétitions de programmation.
+
+Le choix de CY Cergy Paris Université est mûrement réfléchi. Votre Licence, adossée à l'expertise de CY Tech, offre la rigueur conceptuelle indispensable pour aborder les enjeux modernes de l'informatique. De plus, la proximité de vos formations avec le laboratoire ETIS (CNRS) représente une opportunité majeure pour moi. Je souhaite par la suite intégrer votre Master Data Science ou Intelligence Artificielle, avec l'ambition profonde de poursuivre mes études vers un doctorat (PhD) et de dédier ma carrière à la recherche scientifique en IA.
+
+Rejoindre CY Cergy est l'opportunité de mettre mon autonomie, ma passion pour le code et ma détermination au service d'un projet académique ambitieux. Je suis prêt à m'investir pleinement pour réussir cette transition et honorer la confiance de votre commission.
+
+Je vous remercie de l’attention que vous porterez à mon dossier et reste à votre disposition pour tout échange constructif.
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+[Ton Prénom] [Ton Nom]
